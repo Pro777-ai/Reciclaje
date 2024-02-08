@@ -79,4 +79,4 @@ async def porque(ctx):
     """
     await ctx.send(porque)
 
-bot.run("MTEyOTA5MzA4OTQ0NTgxMDI1MA.GomLYd.UPYv2PVJf-3Bihmv6G6iZsZsC0RhkkTNbaIAEs")
+bot.run("TOKEN")
